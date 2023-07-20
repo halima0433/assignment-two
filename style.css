@@ -1,0 +1,304 @@
+
+
+.nav-container{
+  
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.logo-container{
+    display: flex;
+    align-items: center;
+    padding-right: 200px;
+}
+.logo-container img{
+
+    height: 42px;
+
+}
+.logo-container p{
+    font-size: 40px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.nav-item-container{
+
+    display: flex;
+    align-items: center;
+    padding-left: 151px;
+    gap: 100px;
+    font-size: 20px;
+    padding-right: 70px;
+
+}
+.gamer-G{
+   color: rgb(243, 41, 119);
+}
+.Follow-us-item{
+    background-color: rgba(74, 100, 122, 0.534);
+    display: flex;
+    height: 52px;
+    width: 235px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
+.Follow-us-item img{
+   width: 32px;
+   padding-left: 15px;
+
+}
+.nave-in-2-logo{
+    padding-top: 24px;
+}
+
+.play-like-the-goat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 190px;
+}
+
+
+.play-like-the-goat-div-1 img{
+
+    padding-top: 2px;
+    height: 17px;
+
+
+}
+
+.play-like-the-goat-div-2 img{
+  height: 566px;
+}
+
+.play-like-the-goat-div-1 h1{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 72px;
+    margin: -5px;
+}
+
+.play-like-the-goat-div-1 h2{
+    font-size: 40px;
+}
+.play-like-the-goat-div-1 p {
+    color: rgba(14, 13, 13, 0.637);
+}
+
+.button-1{
+border-color: white;
+height: 40px;
+width: 80px;
+background-color: rgb(255, 0, 140);
+border-radius: 20px;
+}
+.button-2{
+    border-color: white;
+border-radius: 20px;
+height: 40px;
+width: 100px;
+background-color: rgb(152, 215, 252);
+}
+.we-ar-gmmer-section{
+    display: flex;
+    text-align: right;
+    justify-content: center;
+    align-items: center;
+}
+.image-div{
+    height: 566px;
+}
+
+.paragraph-div h1{
+
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;  
+}   
+.paragraph-div p {
+    color: rgb(119, 113, 113);
+}
+
+.paragraph-div h4{
+
+    color: rgb(119, 113, 113);
+}
+.paragraph-div button{
+    height: 32px;
+    background-color: rgb(255, 0, 140);
+    width: 106px;
+    border-color: white;
+    border-radius: 15px;
+    font-size: 17px;
+
+}
+.inline-gamne-div {
+   text-align: center;
+   justify-content: center;
+}
+
+.inline-gamne-div h1{
+    font-size: 40px;
+}
+
+.inline-gamne-div p{
+    color: rgb(119, 113, 113);
+}
+.funny-video-class{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.online-games-image-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.online-games-image-div img{
+    height: 321px;
+    padding: 26px;
+
+
+}
+
+.online-games-image-div p{
+    color: rgb(119, 113, 113);
+    padding-left: 26px;
+    margin: 0px;
+}
+.play-instantly-p-div{
+    margin-right: 150px;
+}
+.play-instantly-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.play-instantly-p-div p{
+    text-align: right;
+    color: rgb(119, 113, 113);
+}
+.play-instantly-p-div h1{
+    text-align: right;
+    font-size: 40px;
+    align-items: center;
+}
+.Play-Instantly{
+
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.two-adjust-img-div{
+    height: 646px;
+    border-radius: 21px;
+    width: 635px;
+    padding-top: 60px;
+ 
+    
+}
+
+.two-adjust-img-div{
+ position: relative;
+ padding-left: 166px; 
+ 
+ img{
+    width: 100%;
+  }
+  
+
+}
+.two-img-two{
+    position: absolute;
+    left: -100px;
+    bottom: -100px;
+    padding-left: 166px;
+}
+
+
+.images{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-right: 55px;
+}
+.last-section{
+    padding-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.end-section{
+    padding: 0px 40px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    
+    width: 2105px;
+    height: 500px;
+    background: #0B0223;
+}
+.Game-footer-div {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    gap: 20px;
+    padding-top: 50px;
+
+}
+.Game-footer-div img{
+    width: 85px;
+    height: 46px;
+    padding-top: 16px;
+}
+
+.paregraphn-one-div{
+    display: flex;
+    color: white;
+    font-size: 15px;
+    justify-content: center;
+    gap: 80px;
+}
+.img-footer{
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 30px;
+}
+
+.paregraphn-two-div{
+    color: rgba(255, 255, 255, 0.589);
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.paregraphn-three-div{
+    color: rgba(255, 255, 255, 0.589);
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+
