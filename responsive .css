@@ -1,0 +1,149 @@
+
+@media screen and (max-width: 425px) {
+
+    .nav-container {
+      flex-direction: column;
+      align-items: center;
+      padding: 10px;
+    }
+  
+    .logo-container {
+      padding-right: 0 10px;
+      height: 20%;
+     padding-top: 50px;
+     padding-left: 120px;
+    }
+
+     .logo-container img{
+        height: 30px;
+        padding-left: 100px;
+        
+     } 
+
+     .logo-container P{
+        padding: 5px;
+     }
+    .nav-item-container {
+      padding-left: 0;
+      padding-right: 0;
+      flex-direction: column;
+      gap: 20px;
+      font-size: 18px;
+    }
+  
+    .nave-in-2-logo {
+      padding-top: 10px;
+    }
+  
+    .play-like-the-goat {
+      flex-direction: column;
+      gap: 50px;
+    }
+  
+    .play-like-the-goat-div-1 {
+      text-align: center;
+      padding: 30px 20px;
+    }
+  
+    .play-like-the-goat-div-1 h1 {
+      font-size: 36px;
+    }
+  
+    .play-like-the-goat-div-1 h2 {
+      font-size: 24px;
+    }
+
+    .play-like-the-goat-div-2{
+        height: 2px;
+        margin: auto;
+        border-radius: 10px;
+        
+    }
+  
+    /* Add more responsive styles for other sections as needed */
+  
+    /* We are gamer section */
+    .we-ar-gmmer-section {
+      flex-direction: column;
+      gap: 20px;
+      padding-top: 600px;
+     
+    }
+  
+    /* Online games and funny video section */
+    .inline-gamne-div {
+      padding: 20px;
+      text-align: center;
+    }
+  
+    /* Online games images section */
+    .online-games-image-div {
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+  
+    /* Play Instantly section */
+    .play-instantly-section {
+      flex-direction: column;
+      gap: 50px;
+    }
+  
+    .play-instantly-p-div {
+      text-align: center;
+      margin-right: 0;
+    }
+  
+    .two-adjust-img-div {
+      padding-left: 0;
+      height: 10px;
+    }
+  
+    .two-img-two {
+      position: static;
+      left: auto;
+      bottom: auto;
+      padding-left: 0;
+      height: 10px;
+    }
+  
+    /* Last section */
+    .last-section {
+      flex-direction: column;
+      align-items: center;
+      gap: 50px;
+    }
+  
+    /* End section */
+    .end-section {
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+  
+    /* Footer section */
+    .footer {
+      width: 100%;
+      padding: 20px;
+    }
+  
+    .paregraphn-one-div {
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+  
+    .img-footer {
+      gap: 20px;
+      padding: 20px;
+    }
+  
+    .paregraphn-two-div {
+      gap: 20px;
+    }
+  
+    .paregraphn-three-div {
+      text-align: center;
+    }
+  }
+  
